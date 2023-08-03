@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "SVUmL1A",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "L23_128",
+  "listed": true,
+  "name": "PUM_2\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "L23_128"
+    },
+    "lastModifiedOn": 1678348599791
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "L23_128"
+    },
+    "lastModifiedOn": 1678348599791
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
