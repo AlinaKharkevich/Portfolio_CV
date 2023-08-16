@@ -12,3 +12,5 @@ Compute_Graphics_JavaScript - JavaScript.
 Data_Analysis_And_ Machine_Learnign - Dataiku platform. Folder contains data analysis, data cleaning, machine learning screens from platform.
 
 Diagrams_And_Documentation - LucidChart, Bizagi. Folder contains Use-Case, Activity and Sequence Diagrams, BPMN and examples of Documentations for projects.
+
+Automation_Testing_Selenium - Python. Automation testing with SeleniumWeb on Chrome
